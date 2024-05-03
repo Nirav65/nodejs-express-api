@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-express-api",
+  "version": "1.0.0",
+  "description": "Nodejs Express API Demo",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nirav65/nodejs-express-api.git"
+  },
+  "author": "Nirav Thakar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Nirav65/nodejs-express-api/issues"
+  },
+  "homepage": "https://github.com/Nirav65/nodejs-express-api#readme"
+}
